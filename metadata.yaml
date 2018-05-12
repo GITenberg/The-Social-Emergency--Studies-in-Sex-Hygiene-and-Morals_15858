@@ -1,0 +1,37 @@
+_repo: The-Social-Emergency--Studies-in-Sex-Hygiene-and-Morals_15858
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Eliot, Charles William
+    birthdate: 1834
+    deathdate: 1926
+    gutenberg_agent_id: '6399'
+    url: http://www.gutenberg.org/2009/agents/6399
+    wikipedia: http://en.wikipedia.org/wiki/Charles_William_Eliot
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Foster, William Trufant
+    alias: Foster, William T.
+    birthdate: 1879
+    deathdate: 1950
+    gutenberg_agent_id: '6344'
+    url: http://www.gutenberg.org/2009/agents/6344
+    wikipedia: https://en.wikipedia.org/wiki/William_Trufant_Foster
+description: ''
+gutenberg_issued: '2005-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15858'
+  lccn: '14007480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Sex instruction'
+title: 'The Social Emergency: Studies in Sex Hygiene and Morals'
+url: http://www.gutenberg.org/ebooks/15858
